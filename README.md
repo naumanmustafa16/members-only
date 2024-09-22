@@ -1,24 +1,9 @@
-# README
+# Members only 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is one of the series of Projects on Odin Project Website.
 
-Things you may want to cover:
+This prject focusses on the learning about seesions, cookies, authentications, authorization, callback and other related stuff.
 
-* Ruby version
+More details may be checked on the website:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.theodinproject.com/lessons/ruby-on-rails-members-only
